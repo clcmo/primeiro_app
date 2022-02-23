@@ -5,7 +5,7 @@ Based on [Jamilton Damasceno's](https://www.udemy.com/course/desenvolvimento-and
 
 ## Preview
 
-<iframe width="315" height="560" src="Gravacao_Tela_20220223_194222.mov" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LMZ6nu2wDXk/0.jpg)](https://www.youtube.com/watch?v=LMZ6nu2wDXk)
 
 ## Getting Started
 
