@@ -5,7 +5,8 @@ Based on [Jamilton Damasceno's](https://www.udemy.com/course/desenvolvimento-and
 
 ## Preview
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LMZ6nu2wDXk/0.jpg)](https://www.youtube.com/watch?v=LMZ6nu2wDXk)
+[![Android Preview](https://img.youtube.com/vi/LMZ6nu2wDXk/0.jpg)](https://www.youtube.com/watch?v=LMZ6nu2wDXk)
+[![iOS Preview](https://img.youtube.com/vi/mPbHteaCD6o/0.jpg)](https://www.youtube.com/watch?v=mPbHteaCD6o)
 
 ## Getting Started
 
